@@ -1,7 +1,7 @@
 """
-project_name base module.
+fp64_anhtunguyen_familystatic base module.
 
-This is the principal module of the project_name project.
+This is the principal module of the fp64_anhtunguyen_familystatic project.
 here you put your main classes and objects.
 
 Be creative! do whatever you want!
@@ -14,4 +14,4 @@ and then choose `flask` as template.
 """
 
 # example constant variable
-NAME = "project_name"
+NAME = "fp64_anhtunguyen_familystatic"
